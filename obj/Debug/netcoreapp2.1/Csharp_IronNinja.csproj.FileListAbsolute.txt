@@ -1,0 +1,11 @@
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\bin\Debug\netcoreapp2.1\Csharp_IronNinja.deps.json
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\bin\Debug\netcoreapp2.1\Csharp_IronNinja.runtimeconfig.json
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\bin\Debug\netcoreapp2.1\Csharp_IronNinja.runtimeconfig.dev.json
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\bin\Debug\netcoreapp2.1\Csharp_IronNinja.dll
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\bin\Debug\netcoreapp2.1\Csharp_IronNinja.pdb
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\obj\Debug\netcoreapp2.1\Csharp_IronNinja.csprojAssemblyReference.cache
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\obj\Debug\netcoreapp2.1\Csharp_IronNinja.csproj.CoreCompileInputs.cache
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\obj\Debug\netcoreapp2.1\Csharp_IronNinja.AssemblyInfoInputs.cache
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\obj\Debug\netcoreapp2.1\Csharp_IronNinja.AssemblyInfo.cs
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\obj\Debug\netcoreapp2.1\Csharp_IronNinja.dll
+C:\Users\Valued Customer\Documents\CodingDojo\C#_stack\Csharp_IronNinja\obj\Debug\netcoreapp2.1\Csharp_IronNinja.pdb
